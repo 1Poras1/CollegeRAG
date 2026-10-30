@@ -1,0 +1,1 @@
+Fictional policy version A: Students must attend at least 75% of scheduled classes to be eligible for regular end-semester examinations. Students with attendance below this threshold must contact the academic office.

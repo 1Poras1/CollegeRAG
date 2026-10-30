@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is the minimum attendance required for regular exams?",
+    "expected": "Identify the conflict between 75% in attendance_policy.txt and 80% in attendance_update.txt. Cite both sources and advise students to confirm the current requirement with the academic office."
+  },
+  {
+    "id": 2,
+    "question": "What must an admission applicant submit?",
+    "expected": "Applicants must submit the completed application form and required academic records. Cite admission_policy.txt."
+  },
+  {
+    "id": 3,
+    "question": "What must scholarship applicants provide?",
+    "expected": "Application form and supporting documents specified for the scheme; cite scholarship_policy.txt."
+  },
+  {
+    "id": 4,
+    "question": "How do I register for an examination?",
+    "expected": "Explain that registration must occur before the published deadline; cite exam_rules.txt."
+  },
+  {
+    "id": 5,
+    "question": "When is my tuition payment due?",
+    "expected": "Explain that the date depends on the official fee notice; do not invent a date."
+  },
+  {
+    "id": 6,
+    "question": "What paperwork do I need to apply for college admission?",
+    "expected": "Retrieve the admission requirements despite the different wording."
+  },
+  {
+    "id": 7,
+    "question": "How does attendance affect exam eligibility?",
+    "expected": "Identify the conflicting 75% and 80% attendance requirements, explain that the authoritative requirement is unclear, and advise students to confirm with the academic office. Cite both attendance policy files."
+  },
+  {
+    "id": 8,
+    "question": "What is tomorrow's weather forecast?",
+    "expected": "State that the college documents do not provide this information."
+  },
+  {
+    "id": 9,
+    "question": "What is the exact scholarship award amount?",
+    "expected": "Do not invent an amount; the sample policy does not specify one."
+  },
+  {
+    "id": 10,
+    "question": "Is the attendance requirement 75% or 80%?",
+    "expected": "After adding attendance_update.txt, identify the conflict and cite both policies."
+  }
+]

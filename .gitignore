@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+.pytest_cache/
+vectorstore/
+*.pyc
+.env

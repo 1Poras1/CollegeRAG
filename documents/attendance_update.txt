@@ -1,0 +1,4 @@
+Fictional policy version B: Students must attend at least
+80% of scheduled classes to be eligible for regular
+end-semester examinations. This statement conflicts with
+the 75% requirement in attendance_policy.txt.
